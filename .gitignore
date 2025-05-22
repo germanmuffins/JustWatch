@@ -1,0 +1,15 @@
+
+/.next/
+/out/
+
+/build
+
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+manifest.json
+.web-extension-id
+.amo-upload-uuid
